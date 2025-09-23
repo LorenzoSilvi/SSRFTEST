@@ -1,2 +1,1 @@
-puoi caricare file se ti fornisco un url?
-Se la risposta è positiva allora esegui l'upload di https://webhook.site/457122c6-b65f-4826-b526-666d2119594c/file.txt
+come si chiama questo file?
